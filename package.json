@@ -29,8 +29,8 @@
     "test": "mocha"
   },
   "dependencies": {
-    "engine-handlebars": "^0.6.1",
-    "handlebars-helpers": "assemble/handlebars-helpers#v0.6.0",
+    "engine-handlebars": "^0.8.0",
+    "handlebars-helpers": "kapooostin/handlebars-helpers#v0.6.0",
     "lodash": "^3.5.0"
   },
   "devDependencies": {
